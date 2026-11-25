@@ -4,7 +4,7 @@ Mapa interactivo de las materias de Diseño Gráfico (FADU, UBA) y sus correlati
 
 ## Cómo usarlo
 
-- **Online (recomendado):** abrí el link de GitHub Pages del repositorio, theeramiss.github.io/mapa-dg . En el celu podés agregarla a la pantalla de inicio y se abre como una app, con su ícono, y funciona sin internet.
+- **Online (recomendado):** abrí el link de GitHub Pages del repositorio, [theeramiss.github.io/mapa-dg](https://theeramiss.github.io/mapa-dg/) . En el celu podés agregarla a la pantalla de inicio y se abre como una app, con su ícono, y funciona sin internet.
   - **iPhone:** en Safari tocá Compartir y después "Agregar a inicio". Conviene hacerlo: si usás la página desde Safari y no la abrís durante unos días, Safari puede borrar lo guardado. La app agregada a inicio guarda su avance aparte del de Safari; si ya habías marcado materias en Safari, pasalas con "Copiar código" y "Pegar código".
   - **Android:** en Chrome, menú ⋮ y "Agregar a la pantalla principal" o "Instalar app".
 - **Archivo descargado:** descargá `index.html` y abrilo con doble clic en la compu. No necesita instalar nada. En iPhone no sirve abrirlo desde la app Archivos, porque ahí solo se ve una vista previa y no se puede marcar nada: usá la versión online.
