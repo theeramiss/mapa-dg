@@ -32,7 +32,3 @@ Con la casilla "Incluir el CBC en el organizador" (apagada por defecto) elegís 
 Abajo de todo están "Copiar link", "Copiar código" y "Pegar código". En el dispositivo donde tenés el avance copiás el link o el código; en el otro abrís el link o tocás "Pegar código". Antes de cargarlo, la app avisa cuántas materias trae y que va a **reemplazar** todo lo que haya guardado en ese dispositivo (materias, notas, promedio y bloc de notas).
 
 El avance viaja dentro del link o del código (comprimido). No pasa por ningún servidor. "Copiar link" funciona en la versión online; con el archivo descargado, usá el código. Si publicás la app en GitHub Pages, poné su dirección en `LINK_ONLINE`, al final del script de `index.html`, y el link también va a andar desde el archivo descargado.
-
-## Publicarla en GitHub Pages
-
-Subí a la misma carpeta del repositorio `index.html`, `manifest.webmanifest`, `sw.js` y los íconos (`icon-180.png`, `icon-192.png`, `icon-512.png`). Los últimos tres archivos de código solo hacen falta para la versión online: permiten agregarla a la pantalla de inicio y usarla sin internet. Cuando subas una versión nueva de `index.html`, quien ya la tenga la recibe la siguiente vez que la abra con conexión.
